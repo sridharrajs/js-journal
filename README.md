@@ -19,6 +19,11 @@ Following style guides holds good for both `JavaScript` and `nodejs`
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
+## Functions
+
+* [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?
+](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch)
+
 ## Promises
 
 **Promises are [not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html)**. They are 
