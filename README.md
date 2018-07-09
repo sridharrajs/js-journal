@@ -23,6 +23,11 @@ Following style guides holds good for both `JavaScript` and `nodejs`
 
 * [10 Best Practices for Writing Node.js REST APIs](https://medium.com/the-node-js-collection/10-best-practices-for-writing-node-js-rest-apis-7643a7765cd)
 
+## Functions
+
+* [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch)
+
+
 ## Promises
 
 **Promises are [not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html)**. They are 
