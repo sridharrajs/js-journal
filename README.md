@@ -19,6 +19,10 @@ Following style guides holds good for both `JavaScript` and `nodejs`
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
+## REST APIs
+
+* [10 Best Practices for Writing Node.js REST APIs](https://medium.com/the-node-js-collection/10-best-practices-for-writing-node-js-rest-apis-7643a7765cd)
+
 ## Promises
 
 **Promises are [not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html)**. They are 
