@@ -27,7 +27,7 @@ Following style guides holds good for both `JavaScript` and `nodejs`
 
 * [Arrow function vs function declaration / expressions: Are they equivalent / exchangeable?](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch)
 
-### Closure
+## Closure
 
 * [JavaScript Closures](https://veerasundar.com/blog/2013/08/javascript-closures/) and [examples](https://veerasundar.com/blog/2013/08/javascript-closure-examples/)
 
