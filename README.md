@@ -2,6 +2,9 @@
 
 This repo is a collection of good JavaScript resource(link, blog) I read online on specify JavaScript topics.
 
+
+> you can also check my [node-cheatsheet](https://github.com/sridharrajs/node-cheatsheet) for node specific pointers
+
 ## Indentation
 
 `2 space` is the defacto standard.
